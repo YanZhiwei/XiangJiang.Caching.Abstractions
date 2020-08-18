@@ -1,5 +1,4 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
@@ -12,13 +11,12 @@
     <RepositoryUrl>https://github.com/YanZhiwei/XiangJiang.Caching.Abstractions</RepositoryUrl>
     <Description>XiangJiang.Caching.Abstractions</Description>
     <PackageIcon>nugetico.png</PackageIcon>
+    <Version>1.0.1</Version>
   </PropertyGroup>
-
   <ItemGroup>
     <None Include="..\.assets\nugetico.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
   </ItemGroup>
-
 </Project>
