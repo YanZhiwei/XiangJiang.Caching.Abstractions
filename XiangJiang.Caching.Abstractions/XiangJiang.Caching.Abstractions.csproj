@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>YanZhiwei</Authors>
     <Company>YanZhiwei</Company>
@@ -11,7 +11,7 @@
     <RepositoryUrl>https://github.com/YanZhiwei/XiangJiang.Caching.Abstractions</RepositoryUrl>
     <Description>XiangJiang.Caching.Abstractions</Description>
     <PackageIcon>nugetico.png</PackageIcon>
-    <Version>1.0.1</Version>
+    <Version>2.0.0</Version>
   </PropertyGroup>
   <ItemGroup>
     <None Include="..\.assets\nugetico.png">
